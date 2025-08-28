@@ -100,7 +100,7 @@ Conclusion and Future Outlook
 Generative AI marks a paradigm shift in computing, blending creativity with intelligence. Transformers and LLM scaling have unlocked emergent abilities that drive innovation across industries. Future directions involve making models more efficient, interpretable, and ethically aligned, ensuring that the benefits of generative AI are equitably distributed.
 
 ## Output
-[prompt engg exp 1.pdf](https://github.com/user-attachments/files/22017199/prompt.engg.exp.1.pdf)
+[Generative_AI_Report.pdf](https://github.com/user-attachments/files/22017227/Generative_AI_Report.pdf)
 
 ## Result
 Thus, Comprehensive Report on the Fundamentals of Generative AI and Large Language Models was created. PDF is available for download and review.
